@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
+permalink: /teaching/
 description: All about what I've taught and materials
 nav: true
-nav_order: 6
+nav_order: 5
 display_categories: [teaching assistant, tutoring]
 horizontal: false
 ---
 
 <!-- pages/teaching.md -->
 <div class="teaching">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized teaching materials -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
