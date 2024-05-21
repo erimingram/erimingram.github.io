@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! You've reached my website. This site is currently under construction. 
+Hello! You've reached my website. This site is currently under construction.
 
-I am currently a MS student in data science at UT Austin, expecting to graduate in Spring 2025. 
+I am currently a MS student in data science at UT Austin, expecting to graduate in Spring 2025.
 
-I graduated from Amherst College in 2023 with a BS in Statistics, Computer Science, Mathematics, and History. 4 majors? Yes! That is what led me to Data Science in the end. Data Science is the perfect combination
+I graduated from Amherst College in 2023 with a BS in Statistics, Computer Science, Mathematics, and History. 4 majors? Yes! That is what led me to Data Science in the end. Data Science is the perfect combination between the four fields.
