@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: STAT 320
+description: An upper-level statistics elective at Amherst College
 img: assets/img/3.jpg
 importance: 2
 category: teaching assistant

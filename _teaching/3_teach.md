@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: SAT/ACT
+description: Tutoring high school students in college admissions exams
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
-category: teaching assistant
+category: tutoring
 ---
 
 Every project has a beautiful feature showcase page.
