@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: All about what I've taught and materials
 nav: true
-nav_order: 5
+nav_order: 3
 display_categories: [teaching assistant, tutoring]
 horizontal: false
 ---
