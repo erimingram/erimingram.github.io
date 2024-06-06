@@ -5,77 +5,20 @@ description: An upper-level statistics elective at Amherst College
 img: assets/img/3.jpg
 importance: 2
 category: teaching assistant
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+At Amherst, I was the TA for an upper-level statistics elective called Statistics Communication, taught by Dr. Pamela Matheson. My duties included holding office hours, answering student questions, and maintaining the class' GitHub organization.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This course is unusual but rewarding. Its aim is to build models or run statistical tests targeted at specific audiences and to communicate the results effectively. Other colleges offer similar courses under titles like "Statistical Consulting."
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The prerequisite for the class is intermediate statistics (covering logistic regression, ANOVA, model selection techniques, R programming). As a result, the class was essentially tailored to each student's background. Some students, with just the bare minimum prerequisites, were generally limited to multiple linear regression, while others with extensive knowledge of ML/statistical theory could engage in more advanced methods like gradient boosting and MICE. Therefore, I had to work with students at their level of knowledge to help them build something that could solve the problem they were working on.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+An example of an assignment from this class: a lawyer who possesses a dataset and wishes to support his argument in a court case with a statistical analysis. Half of the class was tasked with writing a report using an appropriate model or test based on the dataset to support the lawyer's argument. The other half wrote a report that countered the lawyer’s argument using the same dataset. Then, in class, the students presented their arguments in groups in a mock trial and voted for the winner.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In this assignment, students learned a great deal about what can be said using data (correlation versus causation, causal inference, types of studies), as well as how to defend their data against an adversarial position and answer some tough questions (p-value of .04? So, 4% of the time we shouldn't convict? How can you throw someone in jail when you aren't 100% sure? Black-box model? How can you ethically make a choice when you don't know why your model is saying what it does?).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In general, students' reports and presentations had to be effective and clear. Students had to justify their choice of plots, the language they used (less technical if their designated audience was the general public, very technical if their audience were PhDs in statistics), and the format of their reports/presentations.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Dr. Matheson and I placed heavy emphasis on ensuring that students learned version control. There aren't many courses in the Amherst statistics major that emphasize version control: that was more typical on the CS side of things. Consequently, most students in the class were using version control for the first time and had to learn about the importance of having a well-documented repository, how to handle merge errors, forking, and how to manage projects involving several collaborators.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+The students' final project synthesized everything they had learned. They chose a topic of interest, collected relevant data, and identified an audience to direct their findings toward. Students had the option to work in small teams or individually. They assembled a comprehensive technical appendix that included all their statistical theory, code, and models. Additionally, they prepared a 2-3 page report or presentation that effectively summarized their findings for their chosen audience. They then presented these findings to their classmates, who assumed the role of the target audience. The project was documented in a well-organized GitHub repository, structured so that it could realistically be passed on to someone interested in exploring their work further.
