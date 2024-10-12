@@ -8,7 +8,7 @@ category: teaching assistant
 related_publications: false
 ---
 
-In Summer and Fall 2024, I'll be a teaching assistant (technically a learning facilitator, but it's the same thing) for a UT Austin graduate-level machine learning course for computer science, data science, and artificial intelligence master's students.
+I am teaching assistant (technically a learning facilitator, but it's the same thing) for a UT Austin graduate-level machine learning course for computer science, data science, and artificial intelligence master's students.
 
 The course is very much a theoretical introduction to ML. I would honestly call it an introduction to statistical learning theory rather than an introduction to ML.
 
@@ -16,7 +16,9 @@ The coursebook is _Understanding Machine Learning: From Theory to Algorithms_ by
 
 My duties are to hold office hours, answer questions on online message boards, grade homework and exams, and to keep an eye on academic integrity violations.
 
-I may post some notes I've written here about course material as well as some videos in the future.
+So far, through Summer and Fall 2024, there have been 600 students in this course.
+
+I may post some notes I've written here about course material in the future.
 
 Topics:
 
@@ -31,6 +33,7 @@ Topics:
 - Linear Regression
 - Logistic Regression
 - SVD/PCA
+- Basic Statistics
 - Maximum Likelihood Estimation
 - Bayesian Inference
 - Kernel Regression

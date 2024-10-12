@@ -22,7 +22,7 @@ At Amherst, I was also allowed to participate in the music program at UMass Amhe
 
 My crowning achievement was performing the Cosma euphonium concerto with the Amherst College orchestra. It really felt as if all my musical work over the past decade had led up to that, and if it was the end of my musical career, I would be happy with that.
 
-Now, I just play the instrument for fun on occasion. I would consider joining a community band when I finish my education to continue and play with others (although not at the same level of difficulty as in college, of course!).
+At UT, I participate in the Symphony Band, a non-varsity ensemble primarily made up of non-music major students and freshman music majors. The music is simple, not requiring a lot of practice time but still extremely fun.
 
 I also am the head moderator of the r/Euphonium subreddit and discord, mentoring younger players of the instrument and compiling a ton of information/history about the instrument. The history nerd in me wants to document as much as I can about the instrument since there really isn't that much out there other than Dave Werden's work.
 
