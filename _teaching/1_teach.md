@@ -33,7 +33,7 @@ Topics:
 - Linear Regression
 - Logistic Regression
 - SVD/PCA
-- Basic Statistics
+- [Basic Statistics]({{ site.baseurl }}{% link assets/pdf/Statistics_Crash_Course.pdf %})
 - Maximum Likelihood Estimation
 - Bayesian Inference
 - Kernel Regression
