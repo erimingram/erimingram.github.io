@@ -1,0 +1,20 @@
+<!-- Jekyll Ideal Image Slider Include -->
+<script src="{{ '/assets/js/slider/ideal-image-slider.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/slider/iis-bullet-nav.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/slider/iis-captions.js' | relative_url }}"></script>
+<script>
+  {% for slider in site.data.sliders %}
+      {% assign slider_name = slider.selector %}
+      var {{ slider_name }} = new IdealImageSlider.Slider({
+          selector: '#{{ slider.selector }}',
+          height: {{ slider.settings.height | default: 'null' }},
+          initialHeight: {{ slider.settings.initialHeight | default: 'null' }},
+          maxHeight: {{ slider.settings.maxHeight | default: 'null' }},
+          interval: {{ slider.settings.interval | default: '5000' }},
+          transitionDuration: {{ slider.settings.transitionDuration | default: '500' }},
+          effect: {{ slider.settings.effect | default: "'slide'" }}
+      });
+      {{ slider_name }}.start();
+      {{ slider_name }}.addCaptions();
+  {% endfor %}
+</script>

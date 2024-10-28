@@ -15,3 +15,5 @@ Unfortunately, I underutilized my time at Amherst in regards to visiting histori
 My next targets to visit in Texas are the historic French Legation in Austin (as I saw the French half in Paris) and the Blackwell School NHS in Marfa when it fully opens.
 
 I'll get around to filling this page with pictures at some point in the future.
+
+{% include slider.html selector="travel_slider" %}

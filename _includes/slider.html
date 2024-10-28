@@ -1,0 +1,9 @@
+{%- if include.selector != empty -%} {%- assign slider = site.data.sliders | where:"selector",include.selector | first -%}
+<div class="ideal-image-slider">
+  <div id="{{ slider.selector }}" class="slider">
+    {% for image in slider.images %}
+    <img src="{{ image.src }}" alt="{{ image.alt }}" title="{{ image.title }}" data-caption="{{ image.caption }}" />
+    {% endfor %}
+  </div>
+</div>
+{%- endif -%}

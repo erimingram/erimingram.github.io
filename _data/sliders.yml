@@ -1,0 +1,26 @@
+- selector: travel_slider
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/img/travel_slideshow/big_thicket.JPG
+      title: "Big Thicket National Preserve"
+      caption: "Big Thicket NPRES - Texas"
+      alt: Big Thicket National Preserve
+    - src: /assets/img/travel_slideshow/chamizal.JPG
+      title: "Chamizal National Historic Site"
+      caption: "Chamizal NHS - Texas"
+      alt: Chamizal National Historic Site
+    - src: /assets/img/travel_slideshow/prada_marfa.JPG
+      title: "Prada Marfa"
+      caption: "Art Installation - Marfa, Texas"
+      alt: Prada Marfa Art Installation
+    - src: /assets/img/travel_slideshow/st_gaudens.JPG
+      title: "Saint-Gaudens National Historic Park"
+      caption: "Saint-Gaudens NHS - New Hampshire"
+      alt: Saint-Gaudens National Historic Park
+  settings:
+    height: 500
+    initialHeight: 500
+    maxHeight: 500
+    interval: 5000
+    effect: "'slide'"
