@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,md,html,css,scss,yml}\"",
+    "format:check": "prettier --check \"**/*.{js,jsx,json,md,html,css,scss,yml}\""
+  },
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "^3.1.1"
