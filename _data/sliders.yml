@@ -9,7 +9,7 @@
     - src: /assets/img/travel_slideshow/chamizal.JPG
       title: "Chamizal National Historic Site - El Paso, Texas"
       caption: "Chamizal"
-      alt: Chamizal National Historic Site
+      alt: Chamizal National Memorial
     - src: /assets/img/travel_slideshow/prada_marfa.JPG
       title: "Prada Marfa - Marfa, Texas"
       caption: "Art Installation"
@@ -18,6 +18,18 @@
       title: "Saint-Gaudens National Historic Park - Cornish, New Hampshire"
       caption: "Saint-Gaudens"
       alt: Saint-Gaudens National Historic Park
+    - src: /assets/img/travel_slideshow/balmorhea.JPG
+      title: "Balmorhea State Park - Toyahvale, Texas"
+      caption: "Balmorhea"
+      alt: Balmorhea State Park
+    - src: /assets/img/travel_slideshow/carlsbad.JPG
+      title: "Carlsbad Caverns National Park - Carlsbad, New Mexico"
+      caption: "Carlsbad"
+      alt: Carlsbad Caverns
+    - src: /assets/img/travel_slideshow/guadalupe.JPG
+      title: "Guadalupe Mountains National Park - Dell City, Texas"
+      caption: "Guadalupe Mountains"
+      alt: Guadalupe Mountains
   settings:
     height: 500
     initialHeight: 500
