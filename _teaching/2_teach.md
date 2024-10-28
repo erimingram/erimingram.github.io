@@ -2,7 +2,7 @@
 layout: page
 title: STAT 320
 description: An upper-level statistics elective at Amherst College
-img: assets/img/3.jpg
+img: assets/img/320.png
 importance: 2
 category: teaching assistant
 ---

@@ -16,7 +16,7 @@ The coursebook is _Understanding Machine Learning: From Theory to Algorithms_ by
 
 My duties are to hold office hours, answer questions on online message boards, grade homework and exams, and to keep an eye on academic integrity violations.
 
-So far, through Summer and Fall 2024, there have been 600 students in this course.
+So far, through Summer and Fall 2024, there have been 600 students I have been responsible for in this course.
 
 I may post some notes I've written here about course material in the future.
 
@@ -36,8 +36,8 @@ Topics:
 - [Basic Statistics]({{ site.baseurl }}{% link assets/pdf/Statistics_Crash_Course.pdf %})
 - Maximum Likelihood Estimation
 - Bayesian Inference
-- Kernel Regression
 - Gaussian Mixture Models and EM
 - Multivariate Normal
+- Kernel Regression
 - SVM (Optional)
 - Neural Networks
