@@ -9,4 +9,5 @@ category: tutoring
 
 Notes:
 
+- [Basics of Moment Generating Functions]({{ site.baseurl }}{% link assets/pdf/MGFs.pdf %})
 - [Multivariate Normal Example]({{ site.baseurl }}{% link assets/pdf/MVN_Example.pdf %})

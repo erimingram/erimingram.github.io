@@ -4,15 +4,15 @@
   images:
     - src: /assets/img/travel_slideshow/big_thicket.JPG
       title: "Big Thicket National Preserve - Kountze, Texas"
-      caption: "Big Thicket"
+      caption: "This national preserve is a huge chunk of eastern Texas that preserves wetlands, swamps, and cypress forests."
       alt: Big Thicket National Preserve
     - src: /assets/img/travel_slideshow/chamizal.JPG
-      title: "Chamizal National Historic Site - El Paso, Texas"
-      caption: "Chamizal"
+      title: "Chamizal National Memorial- El Paso, Texas"
+      caption: "This national memorial commemorates the peaceful resolution of a bitter border dispute between the U.S. and Mexico that was caused by the Rio Grande's flow changing over time."
       alt: Chamizal National Memorial
     - src: /assets/img/travel_slideshow/prada_marfa.JPG
       title: "Prada Marfa - Marfa, Texas"
-      caption: "Art Installation"
+      caption: "Marfa is known for being a town in the middle of the desert with quirky art installations. This art installation was originally meant to be a criticism of consumerism but has turned into a huge tourist attraction."
       alt: Prada Marfa Art Installation
     - src: /assets/img/travel_slideshow/st_gaudens.JPG
       title: "Saint-Gaudens National Historic Park - Cornish, New Hampshire"
@@ -20,7 +20,7 @@
       alt: Saint-Gaudens National Historic Park
     - src: /assets/img/travel_slideshow/balmorhea.JPG
       title: "Balmorhea State Park - Toyahvale, Texas"
-      caption: "Balmorhea"
+      caption: "This state park might be my favorite place ever. Who would expect that the world's largest spring fed pool would be in the middle of the desert?"
       alt: Balmorhea State Park
     - src: /assets/img/travel_slideshow/carlsbad.JPG
       title: "Carlsbad Caverns National Park - Carlsbad, New Mexico"
