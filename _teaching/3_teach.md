@@ -28,3 +28,5 @@ In the digital age we live in, there are a plethora of free online resources for
 When students want personalized assistance to understand concepts, learn test-taking strategies, and find accountability, that's where a tutor like myself comes in. I have helped several students achieve scores of 1500/34+ by addressing their individual needs and helping them develop effective study habits. As a result, my students not only excel in their exams but also gain valuable skills that prepare them for the challenges of college and beyond.
 
 Here, I'll eventually have some "cheat sheets" linked that I've written up for SAT/ACT testing. If anyone reading this is interested in tutoring, shoot me an email!
+
+- [ACT Combinatorics]({{ site.baseurl }}{% link assets/pdf/Combinatorics.pdf %})
