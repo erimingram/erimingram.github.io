@@ -2,7 +2,7 @@
 layout: page
 title: CS/DSC/AI 391L
 description: A graduate-level machine learning course at UT Austin
-img: assets/img/12.jpg
+img: assets/img/UT.jpg
 importance: 1
 category: teaching assistant
 related_publications: false
